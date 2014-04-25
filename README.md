@@ -56,6 +56,9 @@ provides `Enumerator`, an object that takes a target object and a
 `do:` selector and provides the full, rich enumeration API that
 Smalltalk programmers expect.
 
+`Enumerator` is an implementation of the
+[external iterator](http://c2.com/cgi/wiki?ExternalIterator) pattern.
+
 # Usage
 
 To create an `Enumerator`, send the `#on:selector:` message to the
