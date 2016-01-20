@@ -1,5 +1,7 @@
 # ExternalEnumeration
 
+![Maintenance Status](https://img.shields.io/badge/maintenance-active-green.svg)
+
 Adds an external Enumerator that provides the full richness of the
 Smalltalk enumeration protocol to an internal collection or complex
 data structure without exposing the entire collection.
